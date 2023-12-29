@@ -38,7 +38,7 @@ const NavigationBar = () => {
         <div className='px-10 py-12 border w-1/5 h-screen relative'>
             <div className='logo flex gap-4'>
                 <img src={Logo} alt="logo" />
-                <h1 className='text-2xl'>Money Tracker</h1>
+                <h1 className='text-xl'>Money Tracker</h1>
             </div>
 
             <div className='absolute -right-3 top-14 bg-orange-500 rounded-full w-6 h-6 flex justify-center align-middle '>
